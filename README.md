@@ -30,7 +30,7 @@ SYSTEM INFO:
   Shell: bash 5.3.3
   Uptime: 12+ years in cybersec
   Packages: 27 repos | 158 stars
-  Terminal: Warp
+  Terminal: Kitty
   Theme: Matrix Green
   Resolution: Elite Hacker
   WM: i3 (tiling master)
