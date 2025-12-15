@@ -1,22 +1,50 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=ShadowHarvy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ex-Hacker%20%26%20Security%20Enthusiast&descAlignY=55&descSize=20)
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗    ██╗██╗  ██╗ █████╗ ██████╗  ║
+║   ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║██║  ██║██╔══██╗██╔══██╗ ║
+║   ███████╗███████║███████║██║  ██║██║   ██║██║ █╗ ██║███████║███████║██████╔╝ ║
+║   ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║███╗██║██╔══██║██╔══██║██╔══██╗ ║
+║   ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚███╔███╔╝██║  ██║██║  ██║██║  ██║ ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ║
+║                                                                               ║
+║              [ EX-HACKER // SECURITY ENTHUSIAST // LINUX GAMER ]             ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=🛡️+Security-First+Developer+%26+Linux+Enthusiast+🛡️;💻+Building+Intelligent+Automation+Tools+💻;🎮+Optimizing+Linux+Gaming+Systems+🎮;🔒+Authorized+Security+Testing+%26+System+Hardening+🔒;🚀+Open+Source+Contributor+%26+Community+Builder+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=%3E%3E+INITIALIZING+SECURITY+PROTOCOLS...;%3E%3E+OPTIMIZING+LINUX+GAMING+SYSTEMS...;%3E%3E+BUILDING+INTELLIGENT+AUTOMATION...;%3E%3E+HARDENING+ARCH+LINUX+INFRASTRUCTURE...;%3E%3E+EXECUTING+AUTHORIZED+PENETRATION+TESTS...;%3E%3E+CONTRIBUTING+TO+OPEN+SOURCE...)](https://git.io/typing-svg)
+
+```diff
++ SYSTEM STATUS: ONLINE AND OPERATIONAL
++ ACCESS LEVEL: ROOT
++ SECURITY CLEARANCE: AUTHORIZED
+```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=comShadowHarvy&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/comShadowHarvy?color=brightgreen&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/comShadowHarvy?color=brightgreen&style=for-the-badge&logo=github&label=TOTAL+STARS" alt="Stars" />
+  <img src="https://img.shields.io/badge/STATUS-HACKING_THE_PLANET-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://komarev.com/ghpvc/?username=comShadowHarvy&color=00FF41&style=for-the-badge&label=VISITORS&labelColor=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/comShadowHarvy?color=00FF41&style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/comShadowHarvy?color=00FF41&style=for-the-badge&logo=github&label=STARS&labelColor=000000" alt="Stars" />
 </p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+<div align="center">
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> ACCESS FILE: ABOUT_ME.TXT                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ```typescript
 class ShadowHarvy implements SecurityExpert, LinuxEnthusiast {
@@ -57,11 +85,13 @@ class ShadowHarvy implements SecurityExpert, LinuxEnthusiast {
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-### 🏆 Original Creations & Main Projects
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> LOADING: FEATURED_PROJECTS.DB                               │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -172,9 +202,13 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 
 ---
 
-## 🛠️ Technology Arsenal
-
 <div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> SYSTEM SCAN: INSTALLED_TOOLS.SYS                            │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ### 💻 Languages & Scripting
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -213,28 +247,40 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 
 ---
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=comShadowHarvy&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comShadowHarvy&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> FETCHING: GITHUB_STATISTICS.LOG                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=comShadowHarvy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comShadowHarvy&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=comShadowHarvy&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=comShadowHarvy&theme=black-ice&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=00FF41&currStreakNum=00FF41&dates=00FF41&sideLabels=00FF41)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> ACHIEVEMENT UNLOCKED: GITHUB_TROPHIES.DAT                   │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=comShadowHarvy&theme=onedark&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=comShadowHarvy&theme=matrix&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 Contribution Activity
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> ANALYZING: CONTRIBUTION_ACTIVITY.MAP                        │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comShadowHarvy&theme=github_dark)](https://github.com/comShadowHarvy)
 
@@ -242,11 +288,15 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 
 ---
 
-## 👨‍💻 What I'm Working On
-
 <div align="center">
 
-**🔥 Current Focus:** Modernizing Linux gaming infrastructure with intelligent automation
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> RUNNING: CURRENT_MISSION.EXE                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**🔥 OBJECTIVE:** Modernizing Linux gaming infrastructure with intelligent automation
 
 </div>
 
@@ -346,46 +396,60 @@ Maintaining multiple projects, building community tools, comprehensive documenta
 
 ---
 
-## 🤝 Connect & Collaborate
-
 <div align="center">
 
-### 🌐 Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimbob343@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comShadowHarvy)
-
-**💡 Open to collaboration on:**
-
-Linux gaming optimization • Security tooling • System automation • Open source projects
-
-</div>
-
----
-
-## 🎯 How You Can Help
-
-<div align="center">
-
-🌟 **Star repos** you find useful • 🐛 **Report issues** or bugs • 💡 **Contribute** code or ideas • 💬 **Share** with others
-
-</div>
-
----
-
-<div align="center">
-
-```typescript
-while (true) {
-  optimizeLinuxSystems();
-  buildSecurityTools();
-  drinkCoffee();
-  if (community.needsHelp()) contributeToOpenSource();
-}
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> ESTABLISH CONNECTION: COMMUNICATION_CHANNELS.NET            │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
-**💫 Building secure, intelligent tools - one commit at a time**
+[![Email](https://img.shields.io/badge/EMAIL-JIMBOB343%40GMAIL.COM-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:jimbob343@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-COMSHADOWHARVY-00FF41?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/comShadowHarvy)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
+```diff
++ COLLABORATION PROTOCOLS: ACTIVE
++ ACCEPTING: Linux Gaming Optimization | Security Tooling | System Automation | Open Source
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> JOIN THE MISSION                                            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+⭐ **STAR** repos you find useful • 🐛 **REPORT** bugs • 💡 **CONTRIBUTE** code • 📡 **SHARE** with others
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+#!/bin/bash
+# INFINITE_LOOP.SH
+
+while true; do
+    optimize_linux_systems
+    build_security_tools
+    drink_coffee
+    [[ $(community_needs_help) ]] && contribute_to_open_source
+done
+```
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  >> BUILDING SECURE, INTELLIGENT TOOLS - ONE COMMIT AT A TIME <<         ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer)
 
 </div>
