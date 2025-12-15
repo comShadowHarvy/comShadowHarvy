@@ -24,10 +24,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=28&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=%3E%3E+INITIALIZING+SECURITY+PROTOCOLS...;%3E%3E+OPTIMIZING+LINUX+GAMING+SYSTEMS...;%3E%3E+BUILDING+INTELLIGENT+AUTOMATION...;%3E%3E+HARDENING+ARCH+LINUX+INFRASTRUCTURE...;%3E%3E+EXECUTING+AUTHORIZED+PENETRATION+TESTS...;%3E%3E+CONTRIBUTING+TO+OPEN+SOURCE...)](https://git.io/typing-svg)
 
+```yaml
+SYSTEM INFO:
+  OS: Arch Linux (btw)
+  Shell: bash 5.3.3
+  Uptime: 12+ years in cybersec
+  Packages: 27 repos | 158 stars
+  Terminal: Warp
+  Theme: Matrix Green
+  Resolution: Elite Hacker
+  WM: i3 (tiling master)
+  CPU: Overclocked Brain
+  Memory: Infinite Coffee Loop
+```
+
 ```diff
 + SYSTEM STATUS: ONLINE AND OPERATIONAL
 + ACCESS LEVEL: ROOT
 + SECURITY CLEARANCE: AUTHORIZED
++ FIREWALL: ACTIVE | VPN: CONNECTED
 ```
 
 <p align="center">
@@ -36,6 +51,8 @@
   <img src="https://img.shields.io/github/followers/comShadowHarvy?color=00FF41&style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=000000" alt="Followers" />
   <img src="https://img.shields.io/github/stars/comShadowHarvy?color=00FF41&style=for-the-badge&logo=github&label=STARS&labelColor=000000" alt="Stars" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=2&section=header&reversal=false" />
 
 </div>
 
@@ -88,6 +105,28 @@ class ShadowHarvy implements SecurityExpert, LinuxEnthusiast {
         };
     }
 }
+```
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> SKILL_ASSESSMENT.DAT                                        │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+```python
+# EXPERTISE LEVELS [CURRENT_PROFICIENCY]
+
+Linux Systems       ███████████████████░ 95%  # Arch Linux mastery
+Security Testing    ██████████████████░░ 90%  # Authorized pentesting
+Bash Scripting      ███████████████████░ 95%  # Shell automation god
+Python Development  █████████████████░░░ 85%  # Intelligent tooling
+Docker/Containers   ████████████████░░░░ 80%  # Container orchestration
+Gaming Optimization ██████████████████░░ 90%  # SteamDeck specialist
+Git Workflows       ███████████████████░ 95%  # Version control ninja
+System Hardening    █████████████████░░░ 85%  # Security baselines
+Coffee Consumption  ████████████████████ 100% # ☕ CRITICAL RESOURCE
 ```
 
 ---
@@ -258,6 +297,28 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
+│ >>> MONITORING: RECENT_ACTIVITY.LOG                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=comShadowHarvy&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> TRACKING: VISITOR_LOCATIONS.MAP                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+[![Visitor Map](https://visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FcomShadowHarvy&label=GLOBAL%20VISITORS&labelColor=%23000000&countColor=%2300ff41&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FcomShadowHarvy)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
 │ >>> FETCHING: GITHUB_STATISTICS.LOG                             │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -294,6 +355,81 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 </div>
 
 ---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> TERMINAL_SHOWCASE.SH                                        │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+```bash
+# SIGNATURE COMMANDS - Tools I've Built
+
+$ betterstrap setup              # One-command system setup
+$ flatt install --gaming         # Auto-install gaming suite
+$ security-scan --thorough       # Deep system security audit
+$ git-automate --batch-ops       # Mass repo management
+$ system-harden --paranoid       # Maximum security baseline
+$ optimize-gaming --steam-deck   # Performance tuning for handhelds
+```
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ >>> ACHIEVEMENTS_UNLOCKED.DAT                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🎮 GAMER ACHIEVEMENT**
+```
+┏━━━━━━━━━━━━━━━┓
+┃ LEVEL: 99   ┃
+┃ XP: 158 ⭐    ┃
+┃ RANK: ELITE ┃
+┗━━━━━━━━━━━━━━━┛
+```
+SteamDeck Optimizer
+
+</td>
+<td width="33%" align="center">
+
+**🛡️ HACKER ACHIEVEMENT**
+```
+┏━━━━━━━━━━━━━━━┓
+┃ THREAT: LOW ┃
+┃ STEALTH: ██ ┃
+┃ ACCESS: ✔️   ┃
+┗━━━━━━━━━━━━━━━┛
+```
+Authorized Pentester
+
+</td>
+<td width="33%" align="center">
+
+**🐧 LINUX ACHIEVEMENT**
+```
+┏━━━━━━━━━━━━━━━┓
+┃ DISTRO: ARCH┃
+┃ UPTIME: 12y ┃
+┃ REPOS: 27   ┃
+┗━━━━━━━━━━━━━━━┛
+```
+BTW I Use Arch
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -441,22 +577,40 @@ Maintaining multiple projects, building community tools, comprehensive documenta
 
 ```bash
 #!/bin/bash
-# INFINITE_LOOP.SH
+# INFINITE_LOOP.SH - The Hacker's Mantra
 
 while true; do
     optimize_linux_systems
     build_security_tools
-    drink_coffee
+    drink_coffee  # ☕ FUEL_LEVEL: CRITICAL
     [[ $(community_needs_help) ]] && contribute_to_open_source
+    sleep 0  # NO_REST_FOR_THE_ELITE
 done
 ```
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=2&section=header&reversal=false" />
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  >> BUILDING SECURE, INTELLIGENT TOOLS - ONE COMMIT AT A TIME <<         ║
+║                                                                               ║
+║     ■■ BUILDING SECURE, INTELLIGENT TOOLS - ONE COMMIT AT A TIME ■■      ║
+║                                                                               ║
+║         🔒 SECURITY • 🚀 AUTOMATION • 🎮 GAMING • ☕ COFFEE • 🐧 LINUX          ║
+║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+[![Glitch Text](https://readme-typing-svg.herokuapp.com?font=VT323&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=30&lines=SESSION_TERMINATED_SUCCESSFULLY;RETURN_CODE%3A+0x00;CONNECTION_CLOSED;GOODBYE_HACKER...)](https://git.io/typing-svg)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=100&section=footer)
+
+```
+███╗   ██╗ ██████╗  ██████╗ ██████╗    ██████╗ ██╗   ██████╗ 
+████╗ ███║██╔═══██╗██╔═══██╗██╔════╝   ██╔═══██╗██║   ╚══██╔╝ 
+██╔████╔██║██████╔╝██║   ██║█████╗      ██║   ██║██║      ██║  
+██║╚██╔╝██║██╔══██╗██║   ██║██╔══╝      ██║   ██║██║      ██║  
+██║ ╚═╝ ██║██║  ██║╚██████╔╝███████╗   ╚██████╔╝╚██████╔╝   ██║  
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚═════╝  ╚═════╝    ╚═╝  
+```
 
 </div>
