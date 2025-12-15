@@ -33,7 +33,7 @@ SYSTEM INFO:
   Terminal: Kitty
   Theme: Matrix Green
   Resolution: Elite Hacker
-  WM: i3 (tiling master)
+  WM: Hyprland (wayland master)
   CPU: Overclocked Brain
   Memory: Infinite Coffee Loop
 ```
