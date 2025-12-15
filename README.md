@@ -1,20 +1,14 @@
 <div align="center">
 
-<!-- Dynamic Header with Gradient Background -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=ShadowHarvy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Ex-Hacker%20%26%20Security%20Enthusiast&descAlignY=55&descSize=20)
 
-<!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=🛡️+Security-First+Developer+%26+Linux+Enthusiast+🛡️;💻+Building+Intelligent+Automation+Tools+💻;🎮+Optimizing+Linux+Gaming+Systems+🎮;🔒+Authorized+Security+Testing+%26+System+Hardening+🔒;🚀+Open+Source+Contributor+%26+Community+Builder+🚀)](https://git.io/typing-svg)
 
-<!-- Profile Stats Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=comShadowHarvy&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/comShadowHarvy?color=brightgreen&style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/comShadowHarvy?color=brightgreen&style=for-the-badge&logo=github&label=STARS" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/comShadowHarvy?color=brightgreen&style=for-the-badge&logo=github&label=TOTAL+STARS" alt="Stars" />
 </p>
-
-<!-- Matrix-style animation -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -223,66 +217,66 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=comShadowHarvy&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comShadowHarvy&layout=compact&langs_count=8&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=comShadowHarvy&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=comShadowHarvy&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=comShadowHarvy&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=comShadowHarvy&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-**📊 Additional GitHub Analytics**
+### 🏆 GitHub Trophies
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=comShadowHarvy&theme=react-dark&hide_border=true&area=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=comShadowHarvy&theme=onedark&column=7&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Activity
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=comShadowHarvy&theme=github_dark)](https://github.com/comShadowHarvy)
-
-**🏆 GitHub Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=comShadowHarvy&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-**📈 Contribution Stats**
-![Metrics](https://metrics.lecoq.io/comShadowHarvy?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FNew_York)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 👨‍💻 What I'm Working On
 
-<details>
-<summary><b>🔒 Security & Penetration Testing</b></summary>
+<div align="center">
 
-- **🛡️ Ethical Hacking Background**: Extensive experience in authorized security testing
-- **🔍 Vulnerability Research**: Responsible disclosure of security issues
-- **📋 Compliance Frameworks**: Implementation of security baselines and audit trails
-- **🎓 Continuous Learning**: Staying current with emerging security threats and methodologies
+**🔥 Current Focus:** Modernizing Linux gaming infrastructure with intelligent automation
 
-</details>
+</div>
 
-<details>
-<summary><b>🐧 Linux System Mastery</b></summary>
+### 🏆 Key Strengths
 
-- **🎮 Gaming Optimization**: Specialized in SteamDeck and handheld Linux gaming systems
-- **⚙️ Automation Excellence**: Converting complex manual processes into intelligent scripts
-- **🔧 System Hardening**: Implementing comprehensive security measures for production systems
-- **📦 Package Management**: Deep expertise in Flatpak, Nix, and traditional package managers
+<table>
+<tr>
+<td width="33%" align="center">
 
-</details>
+**🔒 Security Expert**
 
-<details>
-<summary><b>🚀 Open Source Contributions</b></summary>
+Ethical hacking background with focus on authorized testing, vulnerability research, and system hardening
 
-- **🌟 Project Leadership**: Maintaining multiple successful open-source projects
-- **👥 Community Building**: Contributing to the Linux gaming community
-- **📚 Documentation**: Writing comprehensive guides and documentation
-- **🔄 Collaboration**: Active engagement with contributors and users
+</td>
+<td width="33%" align="center">
 
-</details>
+**🐧 Linux Master**
+
+Specialized in Arch Linux, gaming optimization, automation scripting, and package management (Flatpak/Nix)
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Open Source Leader**
+
+Maintaining multiple projects, building community tools, comprehensive documentation
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -356,65 +350,41 @@ Advanced automation solutions for Linux system administration and gaming optimiz
 
 <div align="center">
 
-### 🌐 Find Me Around The Web
+### 🌐 Get In Touch
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimbob343@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/comShadowHarvy)
+
+**💡 Open to collaboration on:**
+
+Linux gaming optimization • Security tooling • System automation • Open source projects
 
 </div>
 
 ---
 
-## 🎯 Call to Action
+## 🎯 How You Can Help
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+🌟 **Star repos** you find useful • 🐛 **Report issues** or bugs • 💡 **Contribute** code or ideas • 💬 **Share** with others
 
-### 🌟 Star My Repos
-**If you find my projects useful!**
-
-Help others discover these tools by starring the repositories you find valuable.
-
-</td>
-<td width="33%" align="center">
-
-### 🐛 Report Issues
-**Found a bug or have a feature request?**
-
-I actively maintain my projects and appreciate feedback from the community.
-
-</td>
-<td width="33%" align="center">
-
-### 💡 Contribute
-**Join the Linux gaming community!**
-
-Contributions, suggestions, and discussions are always welcome.
-
-</td>
-</tr>
-</table>
-
-### 🏮 Fun Fact
-```
-while ( codingSkills.improving ) {
-    drinkCoffee();
-    optimizeLinuxSystems();
-    buildSecurityTools();
-    
-    if ( community.needsHelp() ) {
-        contributeToOpenSource();
-        shareKnowledge();
-    }
-}
-```
+</div>
 
 ---
 
-**💫 "Building secure, intelligent tools for everyone - one commit at a time"**
+<div align="center">
+
+```typescript
+while (true) {
+  optimizeLinuxSystems();
+  buildSecurityTools();
+  drinkCoffee();
+  if (community.needsHelp()) contributeToOpenSource();
+}
+```
+
+**💫 Building secure, intelligent tools - one commit at a time**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
 
